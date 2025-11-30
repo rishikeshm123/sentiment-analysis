@@ -7,10 +7,10 @@ Sentiment analysis on Twitter data using NLP techniques and Machine Learning.
 
 ### 1. Install Libraries
 ```bash
-pip install pandas numpy matplotlib scikit-learn nltk
+Install from requirements.txt
 ```
 
-### 2. Download Dataset
+### 2. Download Dataset (Already provided in data folder)
 - Visit: https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 - Download the CSV file
 - Place it in the same folder as the notebook
@@ -78,15 +78,5 @@ These files are ready to use in your Streamlit app!
 
 After completing this notebook:
 1. ✅ Trained models saved as `.pkl` files
-2. 🚀 Create Streamlit app for predictions
-3. 📱 Deploy the web application
+2. 🚀 Run Streamlit app for predictions
 
-## 💡 Tips
-
-- First time using NLTK? The notebook will download required data automatically
-- The notebook includes test predictions to verify everything works
-- All models are compared side-by-side with visualizations
-
----
-
-**Ready to build the Streamlit app next!** 🎨
