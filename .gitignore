@@ -1,0 +1,48 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl 
+
+# Virtual environments
+venv/
+env/
+nlp_env/
+.venv/
+data/ 
+nlp_sentiment_env/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+*.env
+
+# Byte-compiled
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE files
+.vscode/
+.idea/
+
+# Builds
+dist/
+build/
+*.egg-info/
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+
+# Coverage
+htmlcov/
+.coverage
